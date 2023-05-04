@@ -5,9 +5,9 @@
   "author": "Dylan Zheng",
   "repository": "https://github.com/dylanZh/JumpLink",  
   "scripts": {
-    "start": "node_modules/grunt-cli/bin/grunt serve", //调用grunt server命令，执行servertask 定义在gruntfile.js文件中
+    "start": "node_modules/grunt-cli/bin/grunt serve", 
     "dist": "node_modules/grunt-cli/bin/grunt dist",
-    "postinstall": "npm install --prefix app && node_modules/bower/bin/bower install" //npm install会安装以下依赖包，之后会执行这个命令，在app文件夹下继续执行bower install
+    "postinstall": "npm install --prefix app && node_modules/bower/bin/bower install" 
   },
   "devDependencies": {
     "bower": "^1.7.9",
