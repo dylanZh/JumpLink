@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-20T14:27:38.436Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="d6AZcr-VhKfXs8dmuJMe" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-20T14:39:59.715Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="iuMrVsrc2WRWO-4O32ps" version="21.7.5" type="github">
   <diagram name="Page-1" id="DQs070guybFntNxuoLah">
     <mxGraphModel dx="574" dy="313" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -26,7 +26,7 @@
         <mxCell id="uqf2fhStj3olJDT46-tO-2" value="FT232H" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#666666;strokeColor=#996185;gradientColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="220" y="290" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uqf2fhStj3olJDT46-tO-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="uqf2fhStj3olJDT46-tO-6" target="uqf2fhStj3olJDT46-tO-8">
+        <mxCell id="uqf2fhStj3olJDT46-tO-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="uqf2fhStj3olJDT46-tO-6" target="uqf2fhStj3olJDT46-tO-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uqf2fhStj3olJDT46-tO-13" value="SPI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uqf2fhStj3olJDT46-tO-12">
@@ -35,10 +35,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uqf2fhStj3olJDT46-tO-6" value="iCE40HX" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#666666;strokeColor=#996185;gradientColor=#B3B3B3;" vertex="1" parent="1">
-          <mxGeometry x="350" y="290" width="80" height="60" as="geometry" />
+          <mxGeometry x="335" y="440" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uqf2fhStj3olJDT46-tO-8" value="NorFlash" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#666666;strokeColor=#996185;gradientColor=#B3B3B3;" vertex="1" parent="1">
-          <mxGeometry x="280" y="200" width="70" height="60" as="geometry" />
+          <mxGeometry x="340" y="290" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uqf2fhStj3olJDT46-tO-14" value="Shifter Register" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#666666;strokeColor=#996185;gradientColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="180" y="570" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uqf2fhStj3olJDT46-tO-17" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-180;fillColor=#666666;gradientColor=#B3B3B3;strokeColor=#996185;" vertex="1" parent="1">
+          <mxGeometry x="330" y="570" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
