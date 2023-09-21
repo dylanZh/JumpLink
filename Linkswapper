@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-21T07:59:38.776Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="jQNccGbZVLoepZv_2GKl" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-21T08:00:13.152Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="WoQjHm5sEAfBdNaJJgxX" version="21.7.4" type="github">
   <diagram name="Page-1" id="DQs070guybFntNxuoLah">
-    <mxGraphModel dx="882" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1222" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uqf2fhStj3olJDT46-tO-1" value="Computer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="580" y="270" width="70" height="60" as="geometry" />
+          <mxGeometry x="580" y="240" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uqf2fhStj3olJDT46-tO-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="1" source="uqf2fhStj3olJDT46-tO-2" target="uqf2fhStj3olJDT46-tO-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -24,11 +24,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uqf2fhStj3olJDT46-tO-2" value="FT232H" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#666666;strokeColor=#996185;gradientColor=#B3B3B3;" parent="1" vertex="1">
-          <mxGeometry x="730" y="270" width="80" height="60" as="geometry" />
+          <mxGeometry x="730" y="240" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uqf2fhStj3olJDT46-tO-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="uqf2fhStj3olJDT46-tO-6" target="uqf2fhStj3olJDT46-tO-8" edge="1">
+        <mxCell id="uqf2fhStj3olJDT46-tO-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" target="uqf2fhStj3olJDT46-tO-8" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="885" y="370" as="sourcePoint" />
+            <mxPoint x="885" y="350" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uqf2fhStj3olJDT46-tO-13" value="SPI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="uqf2fhStj3olJDT46-tO-12" vertex="1" connectable="0">
@@ -37,10 +37,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uqf2fhStj3olJDT46-tO-6" value="iCE40HX" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#666666;strokeColor=#996185;gradientColor=#B3B3B3;" parent="1" vertex="1">
-          <mxGeometry x="822.5" y="380" width="125" height="620" as="geometry" />
+          <mxGeometry x="822.5" y="350" width="125" height="650" as="geometry" />
         </mxCell>
         <mxCell id="uqf2fhStj3olJDT46-tO-8" value="NorFlash" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#666666;strokeColor=#996185;gradientColor=#B3B3B3;" parent="1" vertex="1">
-          <mxGeometry x="850" y="270" width="70" height="60" as="geometry" />
+          <mxGeometry x="850" y="240" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uqf2fhStj3olJDT46-tO-14" value="Shifter Register" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#666666;strokeColor=#996185;gradientColor=#B3B3B3;" parent="1" vertex="1">
           <mxGeometry x="1000" y="410" width="70" height="30" as="geometry" />
